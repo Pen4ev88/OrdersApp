@@ -1,0 +1,15 @@
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\bin\Debug\netcoreapp3.1\OrdersDataAccess.deps.json
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\bin\Debug\netcoreapp3.1\OrdersDataAccess.runtimeconfig.json
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\bin\Debug\netcoreapp3.1\OrdersDataAccess.runtimeconfig.dev.json
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\bin\Debug\netcoreapp3.1\OrdersDataAccess.dll
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\bin\Debug\netcoreapp3.1\OrdersDataAccess.pdb
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\obj\Debug\netcoreapp3.1\OrdersDataAccess.csprojAssemblyReference.cache
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\obj\Debug\netcoreapp3.1\OrdersDataAccess.AssemblyInfoInputs.cache
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\obj\Debug\netcoreapp3.1\OrdersDataAccess.AssemblyInfo.cs
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\obj\Debug\netcoreapp3.1\OrdersDataAccess.csproj.CoreCompileInputs.cache
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\obj\Debug\netcoreapp3.1\OrdersDataAccess.dll
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\obj\Debug\netcoreapp3.1\OrdersDataAccess.pdb
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\obj\Debug\netcoreapp3.1\OrdersDataAccess.genruntimeconfig.cache
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\bin\Debug\netcoreapp3.1\OrdersBusinessLogic.dll
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\bin\Debug\netcoreapp3.1\OrdersBusinessLogic.pdb
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersDataAccess\obj\Debug\netcoreapp3.1\OrdersDataAccess.csproj.CopyComplete
