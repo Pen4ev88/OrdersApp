@@ -1,4 +1,5 @@
 E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\bin\Debug\netcoreapp3.1\OrdersApp.exe
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\bin\Debug\netcoreapp3.1\appsettings.json
 E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\bin\Debug\netcoreapp3.1\OrdersApp.deps.json
 E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\bin\Debug\netcoreapp3.1\OrdersApp.runtimeconfig.json
 E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\bin\Debug\netcoreapp3.1\OrdersApp.runtimeconfig.dev.json
@@ -62,3 +63,4 @@ E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\obj\Debug\netcoreapp3.1\OrdersApp.
 E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\obj\Debug\netcoreapp3.1\OrdersApp.dll
 E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\obj\Debug\netcoreapp3.1\OrdersApp.pdb
 E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\obj\Debug\netcoreapp3.1\OrdersApp.genruntimeconfig.cache
+E:\Repos\OrdersConsoleApp\OrdersApp\OrdersApp\bin\Debug\netcoreapp3.1\orders.json

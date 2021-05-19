@@ -15,5 +15,11 @@
   <ItemGroup>
     <ProjectReference Include="..\OrdersBusinessLogic\OrdersBusinessLogic.csproj" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <None Update="orders.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 
 </Project>
