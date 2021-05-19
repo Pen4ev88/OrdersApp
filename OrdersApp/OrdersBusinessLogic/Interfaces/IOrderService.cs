@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OrdersBusinessLogic.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,9 @@ namespace OrdersBusinessLogic.Interfaces
 {
     public interface IOrderService
     {
-        
+        Task<Order> CreateOrder(Order orders);
+        Task<bool> OrderExists(int Id);
+        Task<List<Order>> GetAllOrders();
+        Task DeleteOrder(int orderId);
     }
 }
